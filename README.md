@@ -1,5 +1,7 @@
 # Ignite | Fundamentos do Java
 
+![Banner](.github/banner.png)
+
 Este repositório contém todos os códigos sobre a aula de Fundamentos do Java da [Rocketseat](https://app.rocketseat.com.br/).
 
 ## Conteúdo
@@ -14,9 +16,9 @@ Este repositório contém todos os códigos sobre a aula de Fundamentos do Java 
 - [X] Encapsulamento
 - [X] Herança
 - [X] Polimorfismo
-- [] Exceções
-- [] Constutor
-- [] Wrapper de Classes
+- [ ] Exceções
+- [ ] Constutor
+- [ ] Wrapper de Classes
 
 ## O que aprendi
 
