@@ -16,8 +16,8 @@ Este repositório contém todos os códigos sobre a aula de Fundamentos do Java 
 - [X] Encapsulamento
 - [X] Herança
 - [X] Polimorfismo
-- [ ] Exceções
-- [ ] Constutor
+- [X] Exceções
+- [X] Constutor
 - [ ] Wrapper de Classes
 
 ## O que aprendi
